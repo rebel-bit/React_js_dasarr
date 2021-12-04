@@ -1,0 +1,7 @@
+ <React.StrictMode>
+    <App />
+    <Variabel />
+    <Latihanstate />
+    <Map />
+    <Toko />
+  </React.StrictMode>,

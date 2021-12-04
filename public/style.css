@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Kelly+Slab&display=swap");
+body {
+  background-color: white;
+  color: black;
+  font-family: Kelly slab;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+#l {
+  color: white;
+  font-family: Kelly Slab;
+  text-align: center;
+}
+h3 {
+  font-family: Kelly Slab;
+  color: white;
+}
+#root {
+  background-color: black;
+}
+Form.Nav {
+  color: white;
+  font-family: Kelly slab;
+}
+#pl {
+  width: auto;
+}
+#bt {
+  width: 20px;
+  color: lightblue;
+}

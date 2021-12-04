@@ -1,17 +1,21 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import ReactDOM  from 'react-dom';
+//import App from './App'
+//import Variabel from './data/reactjsdasar/Variabel';
+//import Stateprops from './data/reactjsdasar/Stateprops'
+//import Latihanstate from './data/reactjsdasar/Latihanstate'
+//import Operan from './data/reactjsdasar/Operan'
+//import Map from './data/reactjsdasar/Map'
+//import Toko from './data/reactjsdasar/Toko'
+//import Lifecycle from './data/reactjsdasar/Lifecycle'
+//import Motor from './data/reactjsdasar/Motor'
+
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Cruud from './Cruud'
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Cruud />
   </React.StrictMode>,
   document.getElementById('root')
 );
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
